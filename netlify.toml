@@ -1,0 +1,7 @@
+@@ .. @@
+ [build]
+   publish = "dist"
+-  command = "npm run build"
++  command = "cd project && npm run build"
+ 
+ [[redirects]]
